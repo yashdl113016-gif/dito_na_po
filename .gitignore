@@ -1,7 +1,7 @@
 # Vercel project metadata
 .vercel/
 # Local environment settings
-.env
+**/.env
 backend/.env
 passenger-app/.env
 personnel-app/.env
